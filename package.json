@@ -1,0 +1,11 @@
+{
+  "name": "wonder-q",
+  "version": "1.0.0",
+  "description": "Simple queue service.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Rahman",
+  "license": "ISC"
+}
