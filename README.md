@@ -13,3 +13,24 @@ NOTE that, when a consumer gets a set of messages, it must notify WonderQ that i
   * Write documentation for potential API endpoints. Talk about their inputs/ outputs, formats, methods, responses, etc.
   * Discuss how would you go about scaling this system to meet high-volume requests? What infrastructure / stack would you use and why?
   * We'd prefer if you use Node.js and ES6/ES7 as that is what we use.
+
+
+## Examples
+  * [Amazon SQS](http://goo.gl/Bn8qaD)
+  * [Celery](http://www.celeryproject.org/)
+  * [Kue](https://github.com/Automattic/kue)
+
+## Tools to Use
+  1. Node.js / JS (ES6)
+  2. Redis
+
+## Problem Broken Down
+  1. [x] Learn the terminology.
+      * [Learning About Message Queues](https://github.com/fxrhxn/queue-example)
+  2. [x] Build a simple queue.
+      * [Simple Queue](https://github.com/fxrhxn/message-queue)
+  3. [x] Build a quick Redis / Node.js Message Queue
+  4. Fit requirements of WonderQ task
+  5. Setup a test application, and a way to check if queue is alive.
+  6. Write documentation for endpoints
+  7. How would you scale this?
