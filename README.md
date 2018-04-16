@@ -33,12 +33,11 @@ NOTE that, when a consumer gets a set of messages, it must notify WonderQ that i
       * [Quick Redis Implementation](https://github.com/fxrhxn/WonderQ/blob/master/testing.js)
       The way this was built was by looking at code from the [RSMQ](https://www.npmjs.com/package/rsmq) package.
 
-  4. Fit requirements of WonderQ task
-  5. Setup a test application, and a way to check if queue is alive.
-  6. Write documentation for endpoints
-  7. [x] How would you scale this?
-  <br/>
-    Some articles to check out when it comes to scaling queues for more higher demand.
+  4. [x] How would you scale this?
       * [Scaling Slack's Job Queue](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
       * [Redis Scalability](https://www.quora.com/How-scalable-is-Redis)
       * [Twitter Using Redis](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
+
+  5. Fit requirements of WonderQ task
+  6. Setup a test application, and a way to check if queue is alive.
+  7. Write documentation for endpoints
