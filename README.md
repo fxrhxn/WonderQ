@@ -30,6 +30,7 @@ NOTE that, when a consumer gets a set of messages, it must notify WonderQ that i
   2. [x] Build a simple queue.
       * [Simple Queue](https://github.com/fxrhxn/message-queue)
   3. [x] Build a quick Redis / Node.js Message Queue
+      * [Quick Redis Implementation](https://github.com/fxrhxn/WonderQ/blob/master/testing.js)
   4. Fit requirements of WonderQ task
   5. Setup a test application, and a way to check if queue is alive.
   6. Write documentation for endpoints
