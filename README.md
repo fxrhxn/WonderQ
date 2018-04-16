@@ -28,7 +28,7 @@ NOTE that, when a consumer gets a set of messages, it must notify WonderQ that i
   1. [x] Learn the terminology.
       * [Learning About Message Queues](https://github.com/fxrhxn/queue-example)
   2. [x] Build a simple queue.
-      * [Simple Queue](https://github.com/fxrhxn/message-queue)
+      * [Simple Queue](https://github.com/fxrhxn/message-queue/blob/master/testing.js)
   3. [x] Build a quick Redis / Node.js Message Queue
       * [Quick Redis Implementation](https://github.com/fxrhxn/WonderQ/blob/master/testing.js)
       The way this was built was by looking at code from the [RSMQ](https://www.npmjs.com/package/rsmq) package.
