@@ -36,4 +36,8 @@ NOTE that, when a consumer gets a set of messages, it must notify WonderQ that i
   4. Fit requirements of WonderQ task
   5. Setup a test application, and a way to check if queue is alive.
   6. Write documentation for endpoints
-  7. How would you scale this?
+  7. [x] How would you scale this?
+    Some articles to check out when it comes to scaling queues for more higher demand. 
+      * [Scaling Slack's Job Queue](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
+      * [Redis Scalability](https://www.quora.com/How-scalable-is-Redis)
+      * [Twitter Using Redis](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
