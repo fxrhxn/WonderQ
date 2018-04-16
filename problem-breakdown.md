@@ -13,8 +13,9 @@
 
 ## Problem Broken Down
   1. Learn the terminology.
+      * [Learning About Message Queues](https://github.com/fxrhxn/queue-example)
   2. Build a simple messaging queue.
-    * [Simple Message Queue](https://github.com/fxrhxn/message-queue)
+      * [Simple Message Queue](https://github.com/fxrhxn/message-queue)
   3. Fit requirements of WonderQ task
   4. Setup a test application, and a way to check if queue is alive.
   5. Write documentation for endpoints
